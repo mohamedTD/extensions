@@ -1,0 +1,1 @@
+I Have a question what i am gonna send to the content script, I remember that the creator of the youtube bookmark extension
